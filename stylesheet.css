@@ -1,0 +1,15 @@
+h1 {
+    font-size: 30px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+img { 
+    display: block;
+margin-bottom:30px;
+}
+p {
+
+font-size: 1.2em;
+color: green;
+font-family: Cabin, Helvetica;
+}
