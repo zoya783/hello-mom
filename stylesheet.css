@@ -13,3 +13,14 @@ font-size: 1.2em;
 color: green;
 font-family: Cabin, Helvetica;
 }
+.output {
+margin-top: 20px;
+width: 300px;
+height: 30px;
+font-size: 20ppx;
+color: purple;
+font-weight: bold;
+justify-content:center;
+border: 5px solid purple;
+text-align: center;
+padding-top: 10px;}
